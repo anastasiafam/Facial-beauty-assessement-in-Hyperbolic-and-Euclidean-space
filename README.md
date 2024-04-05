@@ -1,1 +1,1 @@
-grgwrswgfsdg
+Web application for Automatic beauty assessment
